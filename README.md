@@ -1,6 +1,3 @@
-Midnight_coders
-Hackathon project by Team Midnight Coders
+# PortalX
 
-## Problem Statement
-Build a modern **Portfolio Website** with a **lightweight Content Management System (CMS)** that enables portfolio owners to update website content without modifying the source code.
-
+[![Open in Bolt](https://bolt.new/static/open-in-bolt.svg)](https://bolt.new/~/sb1-sfyf8q83)
