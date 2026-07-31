@@ -1,7 +1,3 @@
-# Portfolio Website with Lightweight CMS
+# PortalX
 
-**Team Name:** Midnight Coders  
-
-## Problem Statement
-
-Build a modern Portfolio Website with a lightweight Content Management System (CMS) that allows portfolio owners to easily update projects, skills, blogs, images, and other website content without modifying the source code.
+[![Open in Bolt](https://bolt.new/static/open-in-bolt.svg)](https://bolt.new/~/sb1-hvr3r9zd)
